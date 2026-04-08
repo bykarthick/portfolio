@@ -3,21 +3,21 @@ import { motion } from 'framer-motion';
 
 const projects = [
   {
-    title: 'Modern Web Dashboard',
-    description: 'A responsive React dashboard built with Tailwind and Framer Motion. Implements complex data visualization and real-time state management.',
-    tags: ['React', 'TypeScript', 'Tailwind', 'Recharts'],
-    github: 'https://github.com/karthickragavr',
+    title: 'Modern Web Learning',
+    description: 'A responsive React curated learning website built with Tailwind and Vite. Offers curated learning paths built from the best free content on the internet. Step-by-step sessions, embedded video guides, and progress tracking — all in your browser.',
+    tags: ['React', 'TypeScript', 'Tailwind', 'Vite'],
+    github: 'https://karthickragavr.github.io/BrainWave/',
   },
   {
-    title: 'Cloud Infrastructure Pipeline',
-    description: 'Automated CI/CD workflows and Infrastructure as Code for deploying containerized services scalably to Azure.',
-    tags: ['Azure', 'Docker', 'GitHub Actions', 'Terraform'],
-    github: 'https://github.com/karthickragavr',
+    title: 'PlayMangatha',
+    description: 'PlayMangatha is a premium, casino-style web application built on a modern stack (MERN-like + Supabase). It features a robust collection of classic casino games, real-time multiplayer functionality, and a seamless user experience powered by React and Tailwind CSS. The platform supports user authentication, persistent wallets, betting history, and social features.',
+    tags: ['Node.js', 'Socket.io', 'React', 'Express'],
+    github: 'https://casino.playmangatha.com',
   },
   {
-    title: 'Real-Time Chat Service',
-    description: 'Microservice-based high-throughput WebSocket chat application serving multiple client connections concurrently.',
-    tags: ['Node.js', 'Socket.io', 'Redis', 'Express'],
+    title: 'Personal Finance Service (Coming Soon)',
+    description: 'Microservice-based high-throughput application, implements user authentication, transaction categorization, and account aggregation endpoints — directly mirroring the back-end patterns used in fintech consolidation platforms like Wealthsimple.',
+    tags: ['Ruby on Rails', 'Supabase', 'REST APIs','React'],
     github: 'https://github.com/karthickragavr',
   }
 ];
